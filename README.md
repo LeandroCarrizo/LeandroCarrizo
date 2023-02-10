@@ -10,7 +10,7 @@ I bring extensive experience in conducting scientific research related to materi
 
 In my free time, I enjoy playing the guitar, making music, and designing sound. These hobbies have taught me the importance of creativity, attention to detail, and collaboration, skills that I bring to my Work.
 
-.
+
 <!--
 **LeandroCarrizo/LeandroCarrizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
