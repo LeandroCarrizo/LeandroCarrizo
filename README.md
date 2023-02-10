@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+
+
+
+My name is Leandro and I am a civil engineer who is transitioning into a data scientist. I am currently pursuing a Bachelor's degree in Computer Science, which has allowed me to gain a deeper understanding of the field and develop new skills in areas such as programming, algorithms, and data structures.
+
+I bring extensive experience in conducting scientific research related to materials technology to the table. This experience has enabled me to develop transferable skills, such as the ability to analyze and interpret complex data sets, design experiments, and effectively communicate findings.
+
+In my free time, I enjoy playing the guitar, making music, and designing sound. These hobbies have taught me the importance of creativity, attention to detail, and collaboration, skills that I bring to my Work.
+
+.
 <!--
 **LeandroCarrizo/LeandroCarrizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
