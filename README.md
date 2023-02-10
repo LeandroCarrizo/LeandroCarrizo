@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-leandro-carrizo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-carrizo/)](https://www.linkedin.com/in/leandro-carrizo/)
+[![Medium Badge](https://img.shields.io/badge/-@leandrocarrizo1-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@leandrocarrizo1/)](https://medium.com/leandrocarrizo1)
+[![Gmail Badge](https://img.shields.io/badge/-leandrocarrizo1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrocarrizo1@gmail.com)](mailto:leandrocarrizo1@gmail.com)
 
 
 
