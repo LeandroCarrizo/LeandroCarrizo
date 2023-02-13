@@ -7,7 +7,7 @@
 
 
 
-My name is Leandro and I am a civil engineer who is transitioning into a data scientist. I am currently pursuing a Bachelor's degree in Computer Science, which has allowed me to gain a deeper understanding of the field and develop new skills in areas such as programming, algorithms, and data structures.
+My name is Leandro and I am a civil engineer who is transitioning into a data engineer. I am currently pursuing a Bachelor's degree in Computer Science, which has allowed me to gain a deeper understanding of the field and develop new skills in areas such as programming, algorithms, and data structures.
 
 I bring extensive experience in conducting scientific research related to materials technology to the table. This experience has enabled me to develop transferable skills, such as the ability to analyze and interpret complex data sets, design experiments, and effectively communicate findings.
 
