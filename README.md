@@ -8,11 +8,11 @@
 
 
 
-My name is Leandro and I am a civil engineer who is transitioning into a data engineer. I am currently pursuing a Bachelor's degree in Computer Science, which has allowed me to gain a deeper understanding of the field and develop new skills in areas such as programming, algorithms, and data structures.
+I am Leandro, a Data Scientist with 2+ years of experience in machine learning development and data analysis, with knowledge of Python, Scikit-learn, Pandas, NumPy, SQL, Docker, and deep learning libraries such as Tensorflow and PyTorch, as well as applications in NLP and computer vision.
 
-I bring extensive experience in conducting scientific research related to materials technology to the table. This experience has enabled me to develop transferable skills, such as the ability to analyze and interpret complex data sets, design experiments, and effectively communicate findings.
+📌My career in data science is complemented by my experience as a civil engineer. Over the course of more than 6 years, I worked at the LEMIT laboratory, conducting scientific research. During that time, I collaborated in interdisciplinary teams and acquired skills to statistically analyze data obtained in practice. I have published more than 10 articles in specialized journals, focusing on topics related to recycled concrete and sustainability.
 
-In my free time, I enjoy playing the guitar, making music, and designing sound. These hobbies have taught me the importance of creativity, attention to detail, and collaboration, skills that I bring to my Work.
+📌I am a highly motivated individual, constantly seeking opportunities to acquire new skills and take on fresh challenges. If you are looking for someone passionate about data analysis, machine learning, and AI, and committed to continuous learning and development, please feel free to contact me at leandrocarrizo1@gmail.com.
 
 
 <!--
