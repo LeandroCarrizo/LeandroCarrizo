@@ -8,7 +8,7 @@
 
 
 
-I am Leandro, a Data Scientist with 2+ years of experience in machine learning development and data analysis, with knowledge of Python, Scikit-learn, Pandas, NumPy, SQL, Docker, and deep learning libraries such as Tensorflow and PyTorch, as well as applications in NLP and computer vision.
+I'm Leandro, a Data Scientist with 2+ years of experience in machine learning development and data analysis, with knowledge of Python, Scikit-learn, Pandas, NumPy, SQL, Docker, and deep learning libraries such as Tensorflow and PyTorch, as well as applications in NLP and computer vision.
 
 📌My career in data science is complemented by my experience as a civil engineer. Over the course of more than 6 years, I worked at the LEMIT laboratory, conducting scientific research. During that time, I collaborated in interdisciplinary teams and acquired skills to statistically analyze data obtained in practice. I have published more than 10 articles in specialized journals, focusing on topics related to recycled concrete and sustainability.
 
